@@ -1,3 +1,3 @@
-# LEEEZZZZZZZZZZZZZZZZZ GGGGGGGGOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+# Welcome ao meu goat repositorie
 
-![TUTUTU](https://preview.redd.it/duo-is-sus-v0-fpyo9i815oca1.jpg?width=640&crop=smart&auto=webp&s=af5f531da3255f6e3c234236e1d153a5cd8cc2b1)
+![TUTUTU](https://media.gettyimages.com/id/983344022/photo/scream-of-a-snowy-egret-chick.jpg?s=612x612&w=gi&k=20&c=rQ5ZdmpRYD7b1n6eZOO9ohrk7lU1YLlFaky27nWZbJk=)
