@@ -1,0 +1,15 @@
+Average rain transformar vazios em nada rain 
+
+eliminar average_precipitaion porque é constante
+
+same com a cidade
+
+average_speed_diff vazios vao de vela e em um universo paralelo trocamos
+
+average_speed_diff vai receber uma imputaçao supervisionada com o modelo dos dados vazios eliminados
+
+date é chave
+
+average_wind talvez meter uma moda nos valores em falta
+
+enconding das categoricas com target encoding
