@@ -1,13 +1,13 @@
 RowId,AVERAGE_SPEED_DIFF
 1,None
-2,Low
+2,Medium
 3,None
 4,High
 5,Low
 6,Medium
 7,Medium
 8,Medium
-9,Low
+9,None
 10,Medium
 11,None
 12,None
@@ -46,7 +46,7 @@ RowId,AVERAGE_SPEED_DIFF
 45,High
 46,Low
 47,Medium
-48,Low
+48,None
 49,Low
 50,Low
 51,Medium
@@ -80,7 +80,7 @@ RowId,AVERAGE_SPEED_DIFF
 79,High
 80,High
 81,Low
-82,Low
+82,Medium
 83,Very_High
 84,None
 85,None
@@ -172,7 +172,7 @@ RowId,AVERAGE_SPEED_DIFF
 171,None
 172,Medium
 173,None
-174,Low
+174,None
 175,Medium
 176,None
 177,Low
@@ -182,7 +182,7 @@ RowId,AVERAGE_SPEED_DIFF
 181,High
 182,High
 183,Low
-184,High
+184,Very_High
 185,None
 186,Low
 187,Medium
@@ -191,7 +191,7 @@ RowId,AVERAGE_SPEED_DIFF
 190,None
 191,None
 192,Low
-193,High
+193,Very_High
 194,Medium
 195,None
 196,Low
@@ -252,12 +252,12 @@ RowId,AVERAGE_SPEED_DIFF
 251,None
 252,Medium
 253,Low
-254,Medium
+254,Low
 255,High
 256,High
 257,None
 258,Low
-259,None
+259,Low
 260,Low
 261,Low
 262,None
@@ -321,7 +321,7 @@ RowId,AVERAGE_SPEED_DIFF
 320,Medium
 321,Low
 322,Medium
-323,Low
+323,None
 324,Medium
 325,None
 326,Medium
@@ -329,7 +329,7 @@ RowId,AVERAGE_SPEED_DIFF
 328,High
 329,High
 330,Low
-331,High
+331,Medium
 332,Low
 333,None
 334,Low
@@ -350,7 +350,7 @@ RowId,AVERAGE_SPEED_DIFF
 349,Medium
 350,Medium
 351,Low
-352,High
+352,Very_High
 353,None
 354,Very_High
 355,Medium
@@ -362,7 +362,7 @@ RowId,AVERAGE_SPEED_DIFF
 361,None
 362,None
 363,Low
-364,Very_High
+364,High
 365,Medium
 366,Medium
 367,Low
@@ -479,7 +479,7 @@ RowId,AVERAGE_SPEED_DIFF
 478,Medium
 479,Very_High
 480,High
-481,Low
+481,Medium
 482,Medium
 483,None
 484,Very_High
@@ -557,12 +557,12 @@ RowId,AVERAGE_SPEED_DIFF
 556,Medium
 557,Very_High
 558,None
-559,High
+559,Medium
 560,Medium
 561,Low
 562,None
 563,None
-564,None
+564,Low
 565,None
 566,None
 567,Medium
@@ -654,7 +654,7 @@ RowId,AVERAGE_SPEED_DIFF
 653,Low
 654,High
 655,None
-656,Low
+656,None
 657,None
 658,Medium
 659,High
@@ -709,7 +709,7 @@ RowId,AVERAGE_SPEED_DIFF
 708,High
 709,None
 710,Low
-711,Low
+711,Medium
 712,Low
 713,Low
 714,None
@@ -805,7 +805,7 @@ RowId,AVERAGE_SPEED_DIFF
 804,Low
 805,Medium
 806,High
-807,Low
+807,Medium
 808,Medium
 809,High
 810,Very_High
@@ -948,7 +948,7 @@ RowId,AVERAGE_SPEED_DIFF
 947,None
 948,High
 949,Medium
-950,Very_High
+950,High
 951,Low
 952,None
 953,High
@@ -1022,7 +1022,7 @@ RowId,AVERAGE_SPEED_DIFF
 1021,None
 1022,High
 1023,Medium
-1024,None
+1024,Low
 1025,None
 1026,Medium
 1027,None
@@ -1130,7 +1130,7 @@ RowId,AVERAGE_SPEED_DIFF
 1129,None
 1130,Medium
 1131,Medium
-1132,Low
+1132,Medium
 1133,Very_High
 1134,High
 1135,Very_High
@@ -1171,7 +1171,7 @@ RowId,AVERAGE_SPEED_DIFF
 1170,None
 1171,Low
 1172,Low
-1173,High
+1173,Medium
 1174,High
 1175,None
 1176,High
@@ -1246,7 +1246,7 @@ RowId,AVERAGE_SPEED_DIFF
 1245,None
 1246,None
 1247,Medium
-1248,Low
+1248,None
 1249,Medium
 1250,Very_High
 1251,High
@@ -1380,7 +1380,7 @@ RowId,AVERAGE_SPEED_DIFF
 1379,None
 1380,Low
 1381,Medium
-1382,Low
+1382,Medium
 1383,Medium
 1384,None
 1385,Medium
