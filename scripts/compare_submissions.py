@@ -32,8 +32,8 @@ def compare_files(file_a, file_b):
     sub1 = sub1.sort_values('RowId')
     sub2 = sub2.sort_values('RowId')
 
-    preds1 = sub1['AVERAGE_SPEED_DIFF'].astype(str)
-    preds2 = sub2['AVERAGE_SPEED_DIFF'].astype(str)
+    preds1 = sub1['Speed_Diff'].astype(str)
+    preds2 = sub2['Speed_Diff'].astype(str)
 
     # Metrics
     match_count = (preds1 == preds2).sum()
