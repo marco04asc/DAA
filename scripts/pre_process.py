@@ -17,6 +17,14 @@ def process_dates(df):
     df['Hour'] = df['record_date'].dt.hour
     df['DayOfWeek'] = df['record_date'].dt.dayofweek # 0=Mon, 6=Sun
     df['Month'] = df['record_date'].dt.month
+
+    # New Features (Rush Hour & Weekend)
+    # Weekend: Saturday (5) and Sunday (6)
+    df['Is_Weekend'] = df['DayOfWeek'].isin([5, 6]).astype(int)
+    
+    # Rush Hour: Typically 7-9 AM and 5-7 PM (17-19)
+    # We use a broad definition: 7, 8, 9 and 17, 18, 19
+    df['Is_Rush_Hour'] = df['Hour'].isin([7, 8, 9, 17, 18, 19]).astype(int)
     
     # Note: We do NOT drop 'record_date' yet if we want to verify order, 
     # but we will replace it with an integer ID for the final file.
